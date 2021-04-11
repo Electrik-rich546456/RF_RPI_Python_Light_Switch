@@ -19,6 +19,7 @@ Feel free to improve on it :-)
 Things needed:-
 
 (rfmod1) https://pypi.org/project/rpi-rf/
+https://github.com/milaq/rpi-rf
 
 (lg1) https://www.amazon.co.uk/gp/product/B08BRCMXRN/ref=ox_sc_act_title_3?smid=A2PBGKQKFNUGZL&psc=1
 
