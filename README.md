@@ -13,6 +13,9 @@ It also listen for a specific button press that selects the dimmer function then
 
 Apologies if this is a little hard to read I dont know how to embed links on here.
 
+The Two Files Marked (Finnal) are my working coppies.
+Feel free to improve on it :-)
+
 Things needed:-
 
 (rfmod1) https://pypi.org/project/rpi-rf/
