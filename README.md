@@ -13,7 +13,8 @@ It also listen for a specific button press that selects the dimmer function then
 
 Apologies if this is a little hard to read I dont know how to embed links on here.
 
-Things needed
+Things needed:-
+
 (rfmod1) https://pypi.org/project/rpi-rf/
 (lg1) https://www.amazon.co.uk/gp/product/B08BRCMXRN/ref=ox_sc_act_title_3?smid=A2PBGKQKFNUGZL&psc=1
 https://pypi.org/project/tinytuya/
